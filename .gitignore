@@ -6,4 +6,6 @@ __pycache__/
 .idea/
 *.pdf
 .env
+firebase-sdk.json
+
 
